@@ -18,3 +18,11 @@ git config --global alias.lg "log" => Cambiamos la forma de escribir el comando 
 git commit --amend -m "Message" => Permite modificar el mensaje del último commit realizado
 
 git mv nombreArchivo.html nuevoNombre.html => Permite modificar el nombre de los archivos si tener que cambiar desde el Explorador
+
+git rm nombreArchivo.html => En git podemos eliminar archivos con rm y especificamos el nombre del archivo
+
+git reset --soft idDelCommit => Está opción nos permite saltar a el commit de la id que especificamos
+
+git reset --hard idDelCommit => Aquí volvemos al commit especificado y recuperamos los archivos que eliminamos
+
+git reflog => Vemos los movimientos y todos los commits aunque regremos
