@@ -16,3 +16,5 @@ git add . = git add -A = git add --all
 git config --global alias.lg "log" => Cambiamos la forma de escribir el comando git log por git lg
 
 git commit --amend -m "Message" => Permite modificar el mensaje del último commit realizado
+
+git mv nombreArchivo.html nuevoNombre.html => Permite modificar el nombre de los archivos si tener que cambiar desde el Explorador
