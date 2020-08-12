@@ -14,3 +14,5 @@ git reset file => Si realizamos un => git add . => Podemos eliminar ciertos arch
 git add . = git add -A = git add --all
 
 git config --global alias.lg "log" => Cambiamos la forma de escribir el comando git log por git lg
+
+git commit --amend -m "Message" => Permite modificar el mensaje del último commit realizado
