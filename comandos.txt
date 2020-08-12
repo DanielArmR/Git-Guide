@@ -1,0 +1,5 @@
+git init => Inicializar una carpeta como repositorio de git
+git status => Revisar los archivos modificados
+git diff => Revisar cuál fue el cambio
+git congif --global -l => Ver Credenciales Registradas a Git
+git commit => Confirmación de algo que estuvo en el stage
