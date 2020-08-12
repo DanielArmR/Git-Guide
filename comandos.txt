@@ -12,3 +12,5 @@ Indicamos todos los archivos con extensión css
 git reset file => Si realizamos un => git add . => Podemos eliminar ciertos archivos para antes de hacer el commit => git reset index.html
 
 git add . = git add -A = git add --all
+
+git config --global alias.lg "log" => Cambiamos la forma de escribir el comando git log por git lg
