@@ -5,3 +5,8 @@ git congif --global -l => Ver Credenciales Registradas a Git
 git commit => Confirmación de algo que estuvo en el stage
 git checkout . => Volver al cambio nterior al último
 git add . => Agregar Todos los cambios hechos
+
+Con git podemos indicar todos los archivos con cierta extensión que vamos a hacer commit, Con Css por ejemplo => git add *.css
+Indicamos todos los archivos con extensión css
+
+git reset file => Si realizamos un => git add . => Podemos eliminar ciertos archivos para antes de hacer el commit => git reset index.html
