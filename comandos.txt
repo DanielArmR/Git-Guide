@@ -29,3 +29,13 @@ git reflog => Vemos los movimientos y todos los commits aunque regremos
 
 
 Un .gitignore nos permite decir a Git que archivos estar llevando el control y sobre cuales no
+
+En git las branch nos funcionan para escribir código fuera de la rama principal por si hacemos un cambio y no estamos segureos de él
+Para crear una Rama => git branch nombreDeLaRama
+
+Cuando la creamos no estamos sobre esa rama, para cambiarnos a ella hacemos
+git checkout nombreDeLaRama
+
+Si el nuevo cambio estamos seguros de implementarlo a la rama principal debemos unirlo y eso es posible con:
+git merge nombreDeLaRama
+Nota: Es importante cambiar a la rama donde vamos a unir esos cambios
