@@ -6,4 +6,5 @@ func main() {
 	fmt.Println("Adiosss ")
 	fmt.Println("regrese xd")
 	fmt.Println("Desaparecí xd")
+	fmt.Println("Mejor vete xd")
 }
