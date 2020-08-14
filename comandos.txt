@@ -43,3 +43,7 @@ Nota: Es importante cambiar a la rama donde vamos a unir esos cambios
 Para eliminar una rama es => git branch -d nombreDeLaRama
 
 Podemos cambiar y hacer una nueva rama com => git checkout -b nombreDeLaRama
+
+Etiquetas: Para nombrar a los commits que suelen ser algo así Aigf2532k para cambiarlo así v. 1.0
+
+git tag nombreEtiqueta => Crea una Etiqueta
