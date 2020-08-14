@@ -51,3 +51,7 @@ git tag nombreEtiqueta => Crea una Etiqueta, Cuando hacemos esto se hace para el
 git tag -d nombreEtiqueta => Para borrar una etiqueta
 
 git tag nombreEtiqueta -m "Mensaje" => También podemos darle un mensaje a nuestras Etiquetas
+
+Para mostrar la versión, y también que cambios se han hecho desde esa versión se hace un:
+
+git show nombreEtiqueta
