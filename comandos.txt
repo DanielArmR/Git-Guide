@@ -39,3 +39,7 @@ git checkout nombreDeLaRama
 Si el nuevo cambio estamos seguros de implementarlo a la rama principal debemos unirlo y eso es posible con:
 git merge nombreDeLaRama
 Nota: Es importante cambiar a la rama donde vamos a unir esos cambios
+
+Para eliminar una rama es => git branch -d nombreDeLaRama
+
+Podemos cambiar y hacer una nueva rama com => git checkout -b nombreDeLaRama
