@@ -25,6 +25,8 @@ git reset --soft idDelCommit => Está opción nos permite saltar a el commit de 
 
 git reset --hard idDelCommit => Aquí volvemos al commit especificado y recuperamos los archivos que eliminamos
 
+git reset --mixed idDelCommit => Va a ir a un punto de la historia evitando los commits que hicimos, los cambios se mantienen.
+
 git reflog => Vemos los movimientos y todos los commits aunque regremos
 
 
