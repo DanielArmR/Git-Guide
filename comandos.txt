@@ -3,7 +3,7 @@ git status => Revisar los archivos modificados
 git diff => Revisar cuál fue el cambio del último commit a lo actual
 git congif --global -l => Ver Credenciales Registradas a Git
 git commit => Confirmación de algo que estuvo en el stage
-git checkout . => Volver al cambio nterior al último
+git checkout . => Volver al cambio anterior al último
 git add . => Agregar Todos los cambios hechos
 
 Con git podemos indicar todos los archivos con cierta extensión que vamos a hacer commit, Con Css por ejemplo => git add *.css
