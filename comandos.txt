@@ -62,3 +62,5 @@ git fetch => Trae cambios hechos al repositorio que no están en nuestra máquin
 
 git pull => Igual que fetch pero no hay necesidad de un merge
 
+En GitHub pueden exitir repositorios interesantes que podemos agregar cosas para mejorar o explorar. Si ese es tu caso existe un fork.
+Los fork son copias del repositorio sobre el cuál vas a trabajar.
