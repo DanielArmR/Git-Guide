@@ -57,3 +57,8 @@ git tag nombreEtiqueta -m "Mensaje" => También podemos darle un mensaje a nuest
 Para mostrar la versión, y también que cambios se han hecho desde esa versión se hace un:
 
 git show nombreEtiqueta
+
+git fetch => Trae cambios hechos al repositorio que no están en nuestra máquina, después debemos hacer un merge
+
+git pull => Igual que fetch pero no hay necesidad de un merge
+
